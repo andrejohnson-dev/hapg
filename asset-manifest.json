@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hapg/static/css/main.f855e6bc.css",
+    "main.js": "/hapg/static/js/main.203dfbff.js",
+    "static/js/453.d1e3384a.chunk.js": "/hapg/static/js/453.d1e3384a.chunk.js",
+    "static/media/logo.svg": "/hapg/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hapg/index.html",
+    "main.f855e6bc.css.map": "/hapg/static/css/main.f855e6bc.css.map",
+    "main.203dfbff.js.map": "/hapg/static/js/main.203dfbff.js.map",
+    "453.d1e3384a.chunk.js.map": "/hapg/static/js/453.d1e3384a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.203dfbff.js"
+  ]
+}
