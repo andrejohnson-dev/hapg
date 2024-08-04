@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/hapg/static/css/main.709a581b.css",
-    "main.js": "/hapg/static/js/main.40cf1ba7.js",
+    "main.css": "/hapg/static/css/main.3e5816c8.css",
+    "main.js": "/hapg/static/js/main.5ce11c3d.js",
     "static/js/453.d1e3384a.chunk.js": "/hapg/static/js/453.d1e3384a.chunk.js",
     "static/media/LG_EI_Text_Regular.ttf": "/hapg/static/media/LG_EI_Text_Regular.b6e6219847413a5bc128.ttf",
     "static/media/LG_EI_Text_Bold.ttf": "/hapg/static/media/LG_EI_Text_Bold.9af84b7c33f6e5f412d0.ttf",
     "static/media/LG_EI_Text_SemiBold.ttf": "/hapg/static/media/LG_EI_Text_SemiBold.c1aa62c087adfacc5780.ttf",
+    "static/media/studio-kitchen-01.webp": "/hapg/static/media/studio-kitchen-01.817a667baaab63ab130f.webp",
     "static/media/LG_EI_Text_Bold.woff": "/hapg/static/media/LG_EI_Text_Bold.1370b67bf429886ad8d8.woff",
     "static/media/LG_EI_Text_Regular.woff": "/hapg/static/media/LG_EI_Text_Regular.d462e8f82aad0a998d9a.woff",
     "static/media/LG_EI_Headline_Regular.ttf": "/hapg/static/media/LG_EI_Headline_Regular.5e5e0ed03b014b0555c0.ttf",
@@ -15,12 +16,12 @@
     "static/media/LG_EI_Headline_Light.woff": "/hapg/static/media/LG_EI_Headline_Light.6a09d0bafff19dbf716d.woff",
     "static/media/LG_EI_Headline_Regular.woff": "/hapg/static/media/LG_EI_Headline_Regular.138494420009df742b14.woff",
     "index.html": "/hapg/index.html",
-    "main.709a581b.css.map": "/hapg/static/css/main.709a581b.css.map",
-    "main.40cf1ba7.js.map": "/hapg/static/js/main.40cf1ba7.js.map",
+    "main.3e5816c8.css.map": "/hapg/static/css/main.3e5816c8.css.map",
+    "main.5ce11c3d.js.map": "/hapg/static/js/main.5ce11c3d.js.map",
     "453.d1e3384a.chunk.js.map": "/hapg/static/js/453.d1e3384a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.709a581b.css",
-    "static/js/main.40cf1ba7.js"
+    "static/css/main.3e5816c8.css",
+    "static/js/main.5ce11c3d.js"
   ]
 }
