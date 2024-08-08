@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hapg/static/css/main.dfbb2307.css",
-    "main.js": "/hapg/static/js/main.d4181bc4.js",
+    "main.css": "/hapg/static/css/main.02c27448.css",
+    "main.js": "/hapg/static/js/main.583f3160.js",
     "static/js/453.d1e3384a.chunk.js": "/hapg/static/js/453.d1e3384a.chunk.js",
     "static/media/LG_EI_Text_Regular.ttf": "/hapg/static/media/LG_EI_Text_Regular.b6e6219847413a5bc128.ttf",
     "static/media/LG_EI_Text_Bold.ttf": "/hapg/static/media/LG_EI_Text_Bold.9af84b7c33f6e5f412d0.ttf",
@@ -16,12 +16,12 @@
     "static/media/LG_EI_Headline_Light.woff": "/hapg/static/media/LG_EI_Headline_Light.6a09d0bafff19dbf716d.woff",
     "static/media/LG_EI_Headline_Regular.woff": "/hapg/static/media/LG_EI_Headline_Regular.138494420009df742b14.woff",
     "index.html": "/hapg/index.html",
-    "main.dfbb2307.css.map": "/hapg/static/css/main.dfbb2307.css.map",
-    "main.d4181bc4.js.map": "/hapg/static/js/main.d4181bc4.js.map",
+    "main.02c27448.css.map": "/hapg/static/css/main.02c27448.css.map",
+    "main.583f3160.js.map": "/hapg/static/js/main.583f3160.js.map",
     "453.d1e3384a.chunk.js.map": "/hapg/static/js/453.d1e3384a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfbb2307.css",
-    "static/js/main.d4181bc4.js"
+    "static/css/main.02c27448.css",
+    "static/js/main.583f3160.js"
   ]
 }
