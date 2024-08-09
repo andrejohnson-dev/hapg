@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hapg/static/css/main.06c750ad.css",
+    "main.css": "/hapg/static/css/main.45e349f5.css",
     "main.js": "/hapg/static/js/main.ac95fc5f.js",
     "static/js/453.d1e3384a.chunk.js": "/hapg/static/js/453.d1e3384a.chunk.js",
     "static/media/LG_EI_Text_Regular.ttf": "/hapg/static/media/LG_EI_Text_Regular.b6e6219847413a5bc128.ttf",
@@ -16,12 +16,12 @@
     "static/media/LG_EI_Headline_Light.woff": "/hapg/static/media/LG_EI_Headline_Light.6a09d0bafff19dbf716d.woff",
     "static/media/LG_EI_Headline_Regular.woff": "/hapg/static/media/LG_EI_Headline_Regular.138494420009df742b14.woff",
     "index.html": "/hapg/index.html",
-    "main.06c750ad.css.map": "/hapg/static/css/main.06c750ad.css.map",
+    "main.45e349f5.css.map": "/hapg/static/css/main.45e349f5.css.map",
     "main.ac95fc5f.js.map": "/hapg/static/js/main.ac95fc5f.js.map",
     "453.d1e3384a.chunk.js.map": "/hapg/static/js/453.d1e3384a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06c750ad.css",
+    "static/css/main.45e349f5.css",
     "static/js/main.ac95fc5f.js"
   ]
 }
